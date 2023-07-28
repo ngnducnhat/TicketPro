@@ -1,0 +1,32 @@
+{
+  "name": "TicketPro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ngnducnhat/template-discordjs-v14.git"
+  },
+  "keywords": [
+    "discordjs",
+    "v14"
+  ],
+  "author": "ngnducnhat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ngnducnhat/template-discordjs-v14/issues"
+  },
+  "homepage": "https://github.com/ngnducnhat/template-discordjs-v14#readme",
+  "dependencies": {
+    "ascii-table": "^0.0.9",
+    "colors": "^1.4.0",
+    "discord.js": "^14.7.1",
+    "imgur": "^2.3.0",
+    "imgur-file-module": "^1.0.0",
+    "imgur-file-upload": "^1.1.0",
+    "mongoose": "^7.4.0"
+  }
+}

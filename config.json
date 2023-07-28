@@ -1,0 +1,10 @@
+{
+    "token": "",
+    "botName": "TicketPro",
+    "botAvatar": "https://i.imgur.com/g2R1uQt.gif",
+    "botWebsite": "https://bit.ly/m/ngnducnhat",
+    "botId": "1068491120297910362",
+    "botColor": "0xeff5f5",
+    "mongodb": "mongodb+srv://TicketPro:Ngducnhat_0305@ticketpro.vb9muqv.mongodb.net/?retryWrites=true&w=majority",
+    "text": "Bạn đã chọn ${channel} là kênh gửi tiket và ${role} là quản lý ticket"
+}
